@@ -1,2 +1,0 @@
-# TaskMasters
- A freelance Marketplace
