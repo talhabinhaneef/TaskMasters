@@ -1,2 +1,2 @@
 # TaskMasters
-A freelance Marketplace
+A freelance Marketplace using MERN stack
